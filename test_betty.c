@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "main.h"
+#include "shell.h"
 /**
  * main - test
  * n: number

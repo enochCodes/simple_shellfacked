@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
  * findMissingNumber - Find the missing number in an array
  * @nums: Array of integers
