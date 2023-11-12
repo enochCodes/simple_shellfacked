@@ -10,8 +10,9 @@ int findMissingNumber(int nums[], int n)
 {
 	int expectedSum = n * (n + 1) / 2;
 	int actualSum = 0;
+	int i;
 
-	for (int i = 0; i < n; i++)
+	for (i = 0; i < n; i++)
 	{
 		actualSum += nums[i];
 	}
