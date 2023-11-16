@@ -1,5 +1,6 @@
-errors1.c
 #include "shell.h"
+#include <stddef.h>
+#include <stdio.h>
 
 /**
  * _erratoi - converts a string to an integer
